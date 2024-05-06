@@ -113,3 +113,7 @@ p, ul{
   font-weight: 900;
   font-style: italic;
 }
+
+.img-fluid {
+  size: 50%;
+}
