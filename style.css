@@ -117,3 +117,11 @@ p, ul{
   background-color: #BC4B51;
   color: white !important;
 }
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.headsmall {
+  font-size: 30px;
+}
